@@ -1,3 +1,25 @@
+{
+Tutorial :-)
+============
+
+Copia y pega esto abajo de todo que con un poco de suerte va a compilar jaja :-)
+
+
+DISCLAIMER
+==========
+
+**Mi subprograma NO sustityue el que los profesores de p1 otorgarán.** O sea que tú te haces responsable si la cagaste y mandaste mi código ja :P.
+**No** garantizo nada, este código puede o no funcionar correctamente.
+Este código **NO** ofrece una solución a la tarea de la facultad, únicamente facilita su testeo (por lo tanto es legal usarlo jeje).
+Y en general: **NO** me responsabilizo de ningna de las acciones que cualquier persona realice sobre este documento de texto.
+
+Suerte :v
+
+-- mnbb
+}
+
+
+
 procedure printText(texto: TipoTexto);
 var
   i: integer;
